@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T00:16:19.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="dDFSNehwhzbeKDnlT8Ww" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-16T00:17:14.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="TqD9zoIpun4ESaaalImG" version="16.2.7" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
-    <mxGraphModel dx="1550" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2650" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,15 +30,15 @@
         <mxCell id="69ecfefc5c41e42c-7" value="송출컴" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Workstation_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="740" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cYN08qtyrS9z51MIL0_I-1" value="모뎀&amp;nbsp;" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="80" height="80" as="geometry" />
+        <mxCell id="cYN08qtyrS9z51MIL0_I-1" value="모뎀 (KT 같은 인터넷 사업자)" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="81" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYN08qtyrS9z51MIL0_I-4" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" edge="1" parent="1" source="cYN08qtyrS9z51MIL0_I-5" target="cYN08qtyrS9z51MIL0_I-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYN08qtyrS9z51MIL0_I-5" value="공유기" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" vertex="1" parent="1">
+        <mxCell id="cYN08qtyrS9z51MIL0_I-5" value="공유기 (KT 같은 인터넷 사업자)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" vertex="1" parent="1">
           <mxGeometry x="440" y="670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYN08qtyrS9z51MIL0_I-6" value="Internet" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Cloud_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
         <mxCell id="cYN08qtyrS9z51MIL0_I-9" value="송출컴" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Workstation_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" vertex="1" parent="1">
           <mxGeometry x="740" y="670" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cYN08qtyrS9z51MIL0_I-10" value="모뎀&amp;nbsp;" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="cYN08qtyrS9z51MIL0_I-10" value="모뎀 (KT 같은 인터넷 사업자)" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="80" y="670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYN08qtyrS9z51MIL0_I-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="cYN08qtyrS9z51MIL0_I-9" target="cYN08qtyrS9z51MIL0_I-5">
